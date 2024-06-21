@@ -16,6 +16,11 @@
       "extension_ids": []
     }
   ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{a354ca05-b277-421c-b9e8-0fc124858ccb}"
+    }
+  },
   "content_scripts": [
     {
       "matches": ["*://*.youtube.com/*"],
